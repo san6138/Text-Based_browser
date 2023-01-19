@@ -37,4 +37,5 @@ while True:
         file.close
         list.append(url.split(".")[0])
 
+        
 
